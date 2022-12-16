@@ -1,7 +1,6 @@
 # Handwritten Digit Recognition in C++
 
-Welcome to our Handwritten Digit Recognition project!
-My C++ project from HUJI course 67315 (2022) PROGRAMMING WORKSHOP IN C & C++:
+Welcome to my Handwritten Digit Recognition C++ project from HUJI course 67315 (2022) PROGRAMMING WORKSHOP IN C & C++.
 software is designed to recognize handwritten digits between 0 and 9 using a neural network model in C++.
 
 ## How it works
