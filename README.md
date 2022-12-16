@@ -16,14 +16,11 @@ Eigen library for linear algebra operations
 
 ## Usage
 To use this software, simply run the following command:
-
-Copy code
 ./mlpnetwork w1 w2 w3 w4 b1 b2 b3 b4
 Where w1, w2, w3, and w4 are the paths to the weight files for each layer and b1, b2, b3, and b4 are the paths to the offset files for each layer.
 
 The software will then prompt you for the path to an image file containing a handwritten digit.
 When a result is received, the software will print the image, the digit that the network recognized, and the probability of the identification.
-
 To exit the software, enter q at the prompt.
 
 ## Credits
