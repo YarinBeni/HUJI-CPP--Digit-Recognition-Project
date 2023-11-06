@@ -3,6 +3,14 @@
 Welcome to my Handwritten Digit Recognition C++ project from HUJI course 67315 (2022) PROGRAMMING WORKSHOP IN C & C++.
 software is designed to recognize handwritten digits between 0 and 9 using a neural network model in C++.
 
+<p>
+  <img src="https://github.com/YarinBeni/HUJI-CPP--Digit-Recognition-Project/blob/main/model_example_image.png?raw=true" width="650" height="250" alt="CNN Architecture for Digit Recognition" />
+</p>
+<p>
+  <em>Figure: Convolutional Neural Network (CNN) architecture used for digit recognition with handwritten datasets. The model's structure is tailored to interpret the nuances of human handwriting, enabling precise digit classification. Special thanks to the insights from <a href="https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-learning-ad30562a9b64">this article</a> on machine learning-based handwritten digit recognition.</em>
+</p>
+
+
 ## How it works
 We have trained a neural network model on a large dataset of images of handwritten digits to accurately recognize digits with an accuracy of around 96%.
 The model consists of four layers and takes in weights and offsets for each layer as input.
